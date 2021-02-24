@@ -12,6 +12,12 @@ latar belakang, kenapa **clonerp** ini di buat bisa lihat [disini](https://www.n
 npm install -g clonerp
 ```
 
+## Update
+
+```bash
+npm update -g clonerp
+```
+
 ## Usage
 
 ```bash
