@@ -59,7 +59,7 @@ const cloneRepos = (repos, weekday) => {
 
 const helpFeedback = () => {
     console.log("clone repos")
-    console.log('Version 1.0.1')
+    console.log('Version 1.0.3')
     console.log()
     console.log('Usage:')
     console.log();

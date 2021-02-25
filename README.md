@@ -18,6 +18,10 @@ npm install -g clonerp
 npm update -g clonerp
 ```
 
+## Prerequisites
+
+1. pastikan pc/laptop kalian sudah terkoneksikan dengan github menggunakan SSH, jika belum bisa [kesini](https://docs.github.com/en/github/authenticating-to-github/connecting-to-github-with-ssh).
+
 ## Usage
 
 ```bash
