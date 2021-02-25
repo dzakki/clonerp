@@ -35,6 +35,7 @@
     "src/",
     "config/",
     "LICENSE",
-    "README"
+    "README",
+    "assets/"
   ]
 }
