@@ -1,4 +1,7 @@
 {
+    "w1d1": [
+        "first-challenge-git"
+    ],
     "w1d2": [
         "Grade-Students",
         "Graduates"
@@ -76,5 +79,23 @@
     "w4d2": [
         "Membuat-Web-Sederhana-dengan-HTML-dan-CSS",
         "To-Do-List"
+    ],
+    "lc1": [
+        "P0-Live-Code-1"
+    ],
+    "lc2": [
+        "P0-Live-Code-2"
+    ],
+    "lc3": [
+        "P0-Live-Code-1"
+    ],
+    "slc1": [
+        "Phase-0-Simulasi-Live-Code-1"
+    ],
+    "slc2": [
+        "Phase-0-Simulasi-Live-Code-2"
+    ],
+    "slc3": [
+        "Phase-0-Simulasi-Live-Code-3"
     ]
 }
