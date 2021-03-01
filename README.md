@@ -20,7 +20,7 @@ npm update -g clonerp
 
 ## Prerequisites
 
-1. pastikan pc/laptop kalian sudah terkoneksikan dengan github menggunakan SSH, jika belum bisa [kesini](https://docs.github.com/en/github/authenticating-to-github/connecting-to-github-with-ssh).
+1. pastikan pc/laptop kalian sudah terkoneksikan dengan github menggunakan SSH, jika belum bisa pergi ke [**kesini**](https://docs.github.com/en/github/authenticating-to-github/connecting-to-github-with-ssh).
 
 ## Usage
 
@@ -33,7 +33,8 @@ clonerp w<week>d<day>
 #   ex: clonerp w1d2
 ```
 
-### Clone repos 
+### Clone repos
+
 there are 2 option for clone repo.
 
 1. `clonerp` and the choose action `Clone repos`
@@ -44,8 +45,8 @@ there are 2 option for clone repo.
 
 ![clonerp-wd](./assets/clonerpwd.gif)
 
-
 ### Set config
+
 set config of batch and phase with the command `clonerp` and then choose `Set config`.
 
 ![clonerp-wd](./assets/setconfig.gif)
