@@ -29,6 +29,12 @@ const questions = {
             message: 'Please input phase?',
             default: '0',
           },
+          {
+            type: 'input',
+            name: 'set',
+            message: 'Please input set challenges?',
+            default: '1',
+          },
     ]
 }
 

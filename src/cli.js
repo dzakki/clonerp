@@ -55,10 +55,10 @@ async function promptForMissingOptions(options) {
         }
 
       } else if (action === "Set config") {
-        const { batch, phase } = await inquirer.prompt(questions["set config"])
-        const updatedConfig = updateConfig({ batch, phase })
+        const { batch, phase, set } = await inquirer.prompt(questions["set config"])
+        const updatedConfig = updateConfig({ batch, phase, set })
         if (updatedConfig.batch && updatedConfig.phase) {
-          return `Successfully updated config with batch: ${updatedConfig.batch} and phase: ${updatedConfig.phase}`
+          return `Successfully updated config with batch: ${updatedConfig.batch}, set challenges: ${set} and phase: ${updatedConfig.phase}`
         }else {
           return {
             failed: updatedConfig

@@ -1,0 +1,101 @@
+{
+    "w1d1": [
+        "first-challenge-git"
+    ],
+    "w1d2": [
+        "Grade-Students",
+        "Graduates"
+    ],
+    "w1d3": [
+        "Play-With-Strings",
+        "Job-Vacancy",
+        "Gatcha",
+        "Laundry-Day",
+        "I-Love-Coding",
+        "Odd-and-Even-Numbers"
+    ],
+    "w1d4": [
+        "Asterisks",
+        "Balik-Kata",
+        "Bandingkan-Angka",
+        "Konversi-Menit",
+        "XO"
+    ],
+    "w1d5": [
+        "Data-Type-Challenge",
+        "Hitung-Jumlah-Kata",
+        "Palindrome",
+        "Palindrome-Angka"
+    ],
+    "w1d6": [
+        "Most-Character",
+        "Ubah-Huruf"
+    ],
+    "w2d2": [
+        "Shout-Out",
+        "Built-in-Function"
+    ],
+    "w2d3": [
+        "Splice",
+        "Interesting-Ladder",
+        "Vocal-Seeker",
+        "Sitting-Arrangement"
+    ],
+    "w2d4": [
+        "Deret-Geometri",
+        "Target-Terdekat",
+        "Mengelompokkan-Angka",
+        "Payroll",
+        "Damage-Calculation"
+    ],
+    "w2d5": [
+        "Deep-sum",
+        "Most-Frequent-Largest-Numbers",
+        "Melee-Ranged",
+        "Start-Up-Matchmaking"
+    ],
+    "w2d6": [
+        "Urutkan-Abjad",
+        "Tukar-Ukuran",
+        "Sorting"
+    ],
+    "w3d1": [
+        "Change-Me",
+        "Count-Me"
+    ],
+    "w3d4": [
+        "Lo-Jek",
+        "Graduates-Object",
+        "Generate-Hobby-Data",
+        "Cari-Median"
+    ],
+    "w3d5": [
+        "Angka-Prima",
+        "Cari-Modus"
+    ],
+    "w4d1": [
+        "Menghias-HTML-dengan-CSS"
+    ],
+    "w4d2": [
+        "Membuat-Web-Sederhana-dengan-HTML-dan-CSS",
+        "Calorie-Tracker"
+    ],
+    "lc1": [
+        "P0-Live-Code-1"
+    ],
+    "lc2": [
+        "P0-Live-Code-2"
+    ],
+    "lc3": [
+        "P0-Live-Code-1"
+    ],
+    "slc1": [
+        "Phase-0-Simulasi-Live-Code-1"
+    ],
+    "slc2": [
+        "Phase-0-Simulasi-Live-Code-2"
+    ],
+    "slc3": [
+        "Phase-0-Simulasi-Live-Code-3"
+    ]
+}
