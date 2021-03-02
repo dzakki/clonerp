@@ -1,6 +1,6 @@
 {
   "name": "clonerp",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "description": "Clone all challenge berdasarkan week dan day dengan sekali perintah.",
   "homepage": "https://github.com/dzakki/clonerp",
   "main": "src/index.js",

@@ -7,8 +7,8 @@ const configPathResolved = path.resolve(__dirname, configPath)
 
 const readRepos = () => {
     try {
-        const { phase } = readConfig()
-        const repos = readFileSync(path.resolve(__dirname, `../assets/repos-${phase}.json`), "utf8")
+        const { phase, set } = readConfig()
+        const repos = readFileSync(path.resolve(__dirname, `../assets/repos-set${set}-p${phase}.json`), "utf8")
         return JSON.parse(repos)
     } catch (error) {
         return error
@@ -24,11 +24,12 @@ const readConfig = () => {
     }
 }
 
-const updateConfig = ({ batch, phase }) => {
+const updateConfig = ({ batch, phase, set }) => {
     try {
         const config = readConfig()
         config.batch = batch || config.batch
         config.phase = phase || config.phase
+        config.set = set || config.set
         writeFileSync(configPathResolved, JSON.stringify(config, null, 4))
         return config;
     } catch (error) {
@@ -59,7 +60,7 @@ const cloneRepos = (repos, weekday) => {
 
 const helpFeedback = () => {
     console.log("clone repos")
-    console.log('Version 1.0.4')
+    console.log('Version 1.0.5')
     console.log()
     console.log('Usage:')
     console.log();
